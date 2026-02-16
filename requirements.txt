@@ -15,3 +15,4 @@ joblib
 tqdm
 gunicorn 
 flask
+flask_cors
