@@ -1,0 +1,1914 @@
+{
+  "metadata": {
+    "platform": "AI Skill Intelligence Platform v1.0",
+    "processing_time_seconds": 28.41,
+    "weekly_hours_assumed": 15
+  },
+  "resume_analysis": {
+    "sections_detected": {
+      "education": true,
+      "experience": true,
+      "skills": true,
+      "certifications": true
+    },
+    "skills_found": 16,
+    "top_skills": [
+      {
+        "skill_name": "Machine Learning",
+        "normalized_name": "machine_learning",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 4,
+        "market_demand": 0.93,
+        "salary_impact": 0.92,
+        "learning_hours": 200,
+        "prerequisites": [
+          "Python",
+          "Statistics",
+          "Linear Algebra"
+        ]
+      },
+      {
+        "skill_name": "Data Visualization",
+        "normalized_name": "data_visualization",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.82,
+        "salary_impact": 0.72,
+        "learning_hours": 50,
+        "prerequisites": [
+          "Python",
+          "SQL"
+        ]
+      },
+      {
+        "skill_name": "Git",
+        "normalized_name": "git",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.65,
+        "learning_hours": 20,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Problem Solving",
+        "normalized_name": "problem_solving",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Soft",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.75,
+        "learning_hours": 40,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Communication",
+        "normalized_name": "communication",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Soft",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.7,
+        "learning_hours": 50,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "SQL",
+        "normalized_name": "sql",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.9,
+        "salary_impact": 0.75,
+        "learning_hours": 60,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Statistics",
+        "normalized_name": "statistics",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 3,
+        "market_demand": 0.85,
+        "salary_impact": 0.8,
+        "learning_hours": 120,
+        "prerequisites": [
+          "Mathematics"
+        ]
+      },
+      {
+        "skill_name": "REST API",
+        "normalized_name": "rest_api",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.9,
+        "salary_impact": 0.75,
+        "learning_hours": 40,
+        "prerequisites": [
+          "HTTP",
+          "Python"
+        ]
+      },
+      {
+        "skill_name": "Python",
+        "normalized_name": "python",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.85,
+        "learning_hours": 80,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Docker",
+        "normalized_name": "docker",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.88,
+        "salary_impact": 0.78,
+        "learning_hours": 40,
+        "prerequisites": [
+          "Linux"
+        ]
+      }
+    ],
+    "all_skills": [
+      {
+        "skill_name": "Machine Learning",
+        "normalized_name": "machine_learning",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 4,
+        "market_demand": 0.93,
+        "salary_impact": 0.92,
+        "learning_hours": 200,
+        "prerequisites": [
+          "Python",
+          "Statistics",
+          "Linear Algebra"
+        ]
+      },
+      {
+        "skill_name": "Data Visualization",
+        "normalized_name": "data_visualization",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.82,
+        "salary_impact": 0.72,
+        "learning_hours": 50,
+        "prerequisites": [
+          "Python",
+          "SQL"
+        ]
+      },
+      {
+        "skill_name": "Git",
+        "normalized_name": "git",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.65,
+        "learning_hours": 20,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Problem Solving",
+        "normalized_name": "problem_solving",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Soft",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.75,
+        "learning_hours": 40,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Communication",
+        "normalized_name": "communication",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Soft",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.7,
+        "learning_hours": 50,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "SQL",
+        "normalized_name": "sql",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.9,
+        "salary_impact": 0.75,
+        "learning_hours": 60,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Statistics",
+        "normalized_name": "statistics",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 3,
+        "market_demand": 0.85,
+        "salary_impact": 0.8,
+        "learning_hours": 120,
+        "prerequisites": [
+          "Mathematics"
+        ]
+      },
+      {
+        "skill_name": "REST API",
+        "normalized_name": "rest_api",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.9,
+        "salary_impact": 0.75,
+        "learning_hours": 40,
+        "prerequisites": [
+          "HTTP",
+          "Python"
+        ]
+      },
+      {
+        "skill_name": "Python",
+        "normalized_name": "python",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.95,
+        "salary_impact": 0.85,
+        "learning_hours": 80,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Docker",
+        "normalized_name": "docker",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.88,
+        "salary_impact": 0.78,
+        "learning_hours": 40,
+        "prerequisites": [
+          "Linux"
+        ]
+      },
+      {
+        "skill_name": "Agile",
+        "normalized_name": "agile",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Domain",
+        "difficulty": 2,
+        "market_demand": 0.88,
+        "salary_impact": 0.72,
+        "learning_hours": 30,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "Linux",
+        "normalized_name": "linux",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 2,
+        "market_demand": 0.88,
+        "salary_impact": 0.72,
+        "learning_hours": 60,
+        "prerequisites": []
+      },
+      {
+        "skill_name": "AWS",
+        "normalized_name": "aws",
+        "strength_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "difficulty": 3,
+        "market_demand": 0.92,
+        "salary_impact": 0.88,
+        "learning_hours": 150,
+        "prerequisites": [
+          "Linux",
+          "Networking"
+        ]
+      },
+      {
+        "skill_name": "Computer Vision",
+        "normalized_name": "computer_vision",
+        "strength_score": 0.7677,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "difficulty": 4,
+        "market_demand": 0.82,
+        "salary_impact": 0.88,
+        "learning_hours": 180,
+        "prerequisites": [
+          "Deep Learning",
+          "Python",
+          "Linear Algebra"
+        ]
+      },
+      {
+        "skill_name": "Data Engineering",
+        "normalized_name": "data_engineering",
+        "strength_score": 0.7621,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "difficulty": 4,
+        "market_demand": 0.88,
+        "salary_impact": 0.87,
+        "learning_hours": 200,
+        "prerequisites": [
+          "Python",
+          "SQL",
+          "Distributed Systems"
+        ]
+      },
+      {
+        "skill_name": "MLOps",
+        "normalized_name": "mlops",
+        "strength_score": 0.7351,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "difficulty": 4,
+        "market_demand": 0.85,
+        "salary_impact": 0.9,
+        "learning_hours": 160,
+        "prerequisites": [
+          "Machine Learning",
+          "Docker",
+          "Python",
+          "CI/CD"
+        ]
+      }
+    ]
+  },
+  "jd_analysis": {
+    "skills_required": 15,
+    "detected_industry": "tech",
+    "mining_stats": {
+      "from_required_section": true,
+      "regex_matches": 11,
+      "domain_matches": 4,
+      "semantic_matches": 0
+    },
+    "required_skills": [
+      {
+        "skill_name": "Machine Learning",
+        "normalized_name": "machine_learning",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.93,
+        "difficulty": 4,
+        "learning_hours": 200,
+        "industry_boosted": true,
+        "industry": "tech"
+      },
+      {
+        "skill_name": "Deep Learning",
+        "normalized_name": "deep_learning",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.88,
+        "difficulty": 5,
+        "learning_hours": 300,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Apache Spark",
+        "normalized_name": "apache_spark",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.8,
+        "difficulty": 4,
+        "learning_hours": 150,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "TensorFlow",
+        "normalized_name": "tensorflow",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.82,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Kubernetes",
+        "normalized_name": "kubernetes",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Infrastructure",
+        "market_demand": 0.85,
+        "difficulty": 4,
+        "learning_hours": 120,
+        "industry_boosted": true,
+        "industry": "tech"
+      },
+      {
+        "skill_name": "PyTorch",
+        "normalized_name": "pytorch",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.85,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Python",
+        "normalized_name": "python",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.95,
+        "difficulty": 2,
+        "learning_hours": 80,
+        "industry_boosted": true,
+        "industry": "tech"
+      },
+      {
+        "skill_name": "Docker",
+        "normalized_name": "docker",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Infrastructure",
+        "market_demand": 0.88,
+        "difficulty": 2,
+        "learning_hours": 40,
+        "industry_boosted": true,
+        "industry": "tech"
+      },
+      {
+        "skill_name": "MLOps",
+        "normalized_name": "mlops",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.85,
+        "difficulty": 4,
+        "learning_hours": 160,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "CI/CD",
+        "normalized_name": "ci_cd",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Infrastructure",
+        "market_demand": 0.85,
+        "difficulty": 3,
+        "learning_hours": 60,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "SQL",
+        "normalized_name": "sql",
+        "relevance_score": 1.0,
+        "extraction_method": "regex",
+        "type": "Technical",
+        "market_demand": 0.9,
+        "difficulty": 2,
+        "learning_hours": 60,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Distributed Systems",
+        "normalized_name": "distributed_systems",
+        "relevance_score": 0.748,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "market_demand": 0.82,
+        "difficulty": 5,
+        "learning_hours": 250,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "NLP",
+        "normalized_name": "nlp",
+        "relevance_score": 0.7391,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "market_demand": 0.85,
+        "difficulty": 4,
+        "learning_hours": 180,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Computer Vision",
+        "normalized_name": "computer_vision",
+        "relevance_score": 0.7391,
+        "extraction_method": "fuzzy",
+        "type": "Technical",
+        "market_demand": 0.82,
+        "difficulty": 4,
+        "learning_hours": 180,
+        "industry_boosted": false
+      },
+      {
+        "skill_name": "Communication",
+        "normalized_name": "communication",
+        "relevance_score": 0.7367,
+        "extraction_method": "fuzzy",
+        "type": "Soft",
+        "market_demand": 0.95,
+        "difficulty": 2,
+        "learning_hours": 50,
+        "industry_boosted": false
+      }
+    ]
+  },
+  "gap_analysis": {
+    "summary": {
+      "total_required": 15,
+      "total_matched": 7,
+      "total_gaps": 8,
+      "match_percentage": 46.7,
+      "weighted_avg_severity": 2.4951,
+      "average_gap_difficulty": 3.88,
+      "profile_strength": "Needs Work"
+    },
+    "matched_skills": [
+      {
+        "skill_name": "MLOps",
+        "resume_strength": 0.735,
+        "relevance_score": 1.0,
+        "type": "Technical"
+      },
+      {
+        "skill_name": "Docker",
+        "resume_strength": 1.0,
+        "relevance_score": 1.0,
+        "type": "Infrastructure"
+      },
+      {
+        "skill_name": "Python",
+        "resume_strength": 1.0,
+        "relevance_score": 1.0,
+        "type": "Technical"
+      },
+      {
+        "skill_name": "SQL",
+        "resume_strength": 1.0,
+        "relevance_score": 1.0,
+        "type": "Technical"
+      },
+      {
+        "skill_name": "Machine Learning",
+        "resume_strength": 1.0,
+        "relevance_score": 1.0,
+        "type": "Technical"
+      },
+      {
+        "skill_name": "Computer Vision",
+        "resume_strength": 0.768,
+        "relevance_score": 0.7391,
+        "type": "Technical"
+      },
+      {
+        "skill_name": "Communication",
+        "resume_strength": 1.0,
+        "relevance_score": 0.7367,
+        "type": "Soft"
+      }
+    ],
+    "skill_gaps": [
+      {
+        "skill_name": "CI/CD",
+        "normalized_name": "ci/cd",
+        "gap_score": 6.0208,
+        "severity": 0.85,
+        "market_demand": 0.85,
+        "salary_impact": 0.85,
+        "difficulty": 3,
+        "learning_hours": 60,
+        "type": "Infrastructure",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      },
+      {
+        "skill_name": "PyTorch",
+        "normalized_name": "pytorch",
+        "gap_score": 3.6125,
+        "severity": 0.85,
+        "market_demand": 0.85,
+        "salary_impact": 0.85,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      },
+      {
+        "skill_name": "TensorFlow",
+        "normalized_name": "tensorflow",
+        "gap_score": 3.362,
+        "severity": 0.82,
+        "market_demand": 0.82,
+        "salary_impact": 0.82,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      },
+      {
+        "skill_name": "Kubernetes",
+        "normalized_name": "kubernetes",
+        "gap_score": 2.2578,
+        "severity": 0.85,
+        "market_demand": 0.85,
+        "salary_impact": 0.85,
+        "difficulty": 4,
+        "learning_hours": 120,
+        "type": "Infrastructure",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      },
+      {
+        "skill_name": "Apache Spark",
+        "normalized_name": "apache_spark",
+        "gap_score": 1.6,
+        "severity": 0.8,
+        "market_demand": 0.8,
+        "salary_impact": 0.8,
+        "difficulty": 4,
+        "learning_hours": 150,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      },
+      {
+        "skill_name": "NLP",
+        "normalized_name": "nlp",
+        "gap_score": 1.5052,
+        "severity": 0.85,
+        "market_demand": 0.85,
+        "salary_impact": 0.85,
+        "difficulty": 4,
+        "learning_hours": 180,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "fuzzy"
+      },
+      {
+        "skill_name": "Distributed Systems",
+        "normalized_name": "distributed_systems",
+        "gap_score": 0.8069,
+        "severity": 0.82,
+        "market_demand": 0.82,
+        "salary_impact": 0.82,
+        "difficulty": 5,
+        "learning_hours": 250,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "fuzzy"
+      },
+      {
+        "skill_name": "Deep Learning",
+        "normalized_name": "deep_learning",
+        "gap_score": 0.7744,
+        "severity": 0.88,
+        "market_demand": 0.88,
+        "salary_impact": 0.88,
+        "difficulty": 5,
+        "learning_hours": 300,
+        "type": "Technical",
+        "prerequisites": [],
+        "extraction_method": "regex"
+      }
+    ],
+    "acquisition_sequence": [
+      {
+        "step": 1,
+        "skill_name": "CI/CD",
+        "gap_score": 6.0208,
+        "difficulty": 3,
+        "learning_hours": 60,
+        "type": "Infrastructure",
+        "prerequisites_met": true,
+        "reason": "High ROI: high market demand + strong salary impact with manageable difficulty"
+      },
+      {
+        "step": 2,
+        "skill_name": "PyTorch",
+        "gap_score": 3.6125,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "High ROI: high market demand + strong salary impact with manageable difficulty"
+      },
+      {
+        "step": 3,
+        "skill_name": "TensorFlow",
+        "gap_score": 3.362,
+        "difficulty": 3,
+        "learning_hours": 100,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "High ROI: high market demand + strong salary impact with manageable difficulty"
+      },
+      {
+        "step": 4,
+        "skill_name": "Kubernetes",
+        "gap_score": 2.2578,
+        "difficulty": 4,
+        "learning_hours": 120,
+        "type": "Infrastructure",
+        "prerequisites_met": true,
+        "reason": "Critical market demand (85%): essential for role fit"
+      },
+      {
+        "step": 5,
+        "skill_name": "Apache Spark",
+        "gap_score": 1.6,
+        "difficulty": 4,
+        "learning_hours": 150,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "Gap score 1.60: prioritized by ROI formula"
+      },
+      {
+        "step": 6,
+        "skill_name": "NLP",
+        "gap_score": 1.5052,
+        "difficulty": 4,
+        "learning_hours": 180,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "Critical market demand (85%): essential for role fit"
+      },
+      {
+        "step": 7,
+        "skill_name": "Distributed Systems",
+        "gap_score": 0.8069,
+        "difficulty": 5,
+        "learning_hours": 250,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "Gap score 0.81: prioritized by ROI formula"
+      },
+      {
+        "step": 8,
+        "skill_name": "Deep Learning",
+        "gap_score": 0.7744,
+        "difficulty": 5,
+        "learning_hours": 300,
+        "type": "Technical",
+        "prerequisites_met": true,
+        "reason": "Critical market demand (88%): essential for role fit"
+      }
+    ]
+  },
+  "roadmap": {
+    "roadmap_summary": {
+      "total_skills_to_learn": 8,
+      "total_hours_required": 1260,
+      "total_weeks_estimated": 84,
+      "weekly_commitment_hours": 15,
+      "tier_1_count": 0,
+      "tier_2_count": 6,
+      "tier_3_count": 2
+    },
+    "quick_wins": [
+      {
+        "skill_name": "CI/CD",
+        "weeks": 4,
+        "motivation": "High value skill: Very High ROI. Adds significant salary impact (85%)."
+      },
+      {
+        "skill_name": "PyTorch",
+        "weeks": 7,
+        "motivation": "High value skill: Very High ROI. Adds significant salary impact (85%)."
+      },
+      {
+        "skill_name": "TensorFlow",
+        "weeks": 7,
+        "motivation": "High value skill: Very High ROI. Adds significant salary impact (82%)."
+      }
+    ],
+    "tiers": {
+      "tier_1": {
+        "name": "High ROI + Low Difficulty",
+        "description": "Start here. Quick wins that provide immediate impact and build momentum.",
+        "skills": []
+      },
+      "tier_2": {
+        "name": "Medium ROI + Moderate Difficulty",
+        "description": "Core competency building. Critical for long-term role success.",
+        "skills": [
+          {
+            "skill_name": "CI/CD",
+            "tier": "tier_2",
+            "difficulty": 3,
+            "difficulty_label": "Intermediate",
+            "learning_hours": 60,
+            "weeks_to_proficiency": 4,
+            "learning_type": "Certification path + lab exercises",
+            "prerequisites": [],
+            "proficiency_milestone": "Complete a portfolio project and pass a mock assessment in CI/CD",
+            "study_schedule": "12 sessions of ~5 hrs each, over 4 weeks",
+            "gap_score": 6.0208,
+            "market_demand": 0.85,
+            "salary_impact": 0.85,
+            "roi_label": "Very High ROI",
+            "start_week": 1,
+            "end_week": 4
+          },
+          {
+            "skill_name": "PyTorch",
+            "tier": "tier_2",
+            "difficulty": 3,
+            "difficulty_label": "Intermediate",
+            "learning_hours": 100,
+            "weeks_to_proficiency": 7,
+            "learning_type": "Structured course + real-world projects + documentation",
+            "prerequisites": [],
+            "proficiency_milestone": "Complete a portfolio project and pass a mock assessment in PyTorch",
+            "study_schedule": "20 sessions of ~5 hrs each, over 7 weeks",
+            "gap_score": 3.6125,
+            "market_demand": 0.85,
+            "salary_impact": 0.85,
+            "roi_label": "Very High ROI",
+            "start_week": 5,
+            "end_week": 11
+          },
+          {
+            "skill_name": "TensorFlow",
+            "tier": "tier_2",
+            "difficulty": 3,
+            "difficulty_label": "Intermediate",
+            "learning_hours": 100,
+            "weeks_to_proficiency": 7,
+            "learning_type": "Structured course + real-world projects + documentation",
+            "prerequisites": [],
+            "proficiency_milestone": "Complete a portfolio project and pass a mock assessment in TensorFlow",
+            "study_schedule": "20 sessions of ~5 hrs each, over 7 weeks",
+            "gap_score": 3.362,
+            "market_demand": 0.82,
+            "salary_impact": 0.82,
+            "roi_label": "Very High ROI",
+            "start_week": 12,
+            "end_week": 18
+          },
+          {
+            "skill_name": "Kubernetes",
+            "tier": "tier_2",
+            "difficulty": 4,
+            "difficulty_label": "Advanced",
+            "learning_hours": 120,
+            "weeks_to_proficiency": 8,
+            "learning_type": "Certification + enterprise projects",
+            "prerequisites": [],
+            "proficiency_milestone": "Deploy a production-level implementation using Kubernetes",
+            "study_schedule": "Structured program: ~15 hrs/week for 8 weeks",
+            "gap_score": 2.2578,
+            "market_demand": 0.85,
+            "salary_impact": 0.85,
+            "roi_label": "Very High ROI",
+            "start_week": 19,
+            "end_week": 26
+          },
+          {
+            "skill_name": "Apache Spark",
+            "tier": "tier_2",
+            "difficulty": 4,
+            "difficulty_label": "Advanced",
+            "learning_hours": 150,
+            "weeks_to_proficiency": 10,
+            "learning_type": "Deep-dive specialization + research papers + mentorship",
+            "prerequisites": [],
+            "proficiency_milestone": "Deploy a production-level implementation using Apache Spark",
+            "study_schedule": "Structured program: ~15 hrs/week for 10 weeks",
+            "gap_score": 1.6,
+            "market_demand": 0.8,
+            "salary_impact": 0.8,
+            "roi_label": "Very High ROI",
+            "start_week": 27,
+            "end_week": 36
+          },
+          {
+            "skill_name": "NLP",
+            "tier": "tier_2",
+            "difficulty": 4,
+            "difficulty_label": "Advanced",
+            "learning_hours": 180,
+            "weeks_to_proficiency": 12,
+            "learning_type": "Deep-dive specialization + research papers + mentorship",
+            "prerequisites": [],
+            "proficiency_milestone": "Deploy a production-level implementation using NLP",
+            "study_schedule": "Structured program: ~15 hrs/week for 12 weeks",
+            "gap_score": 1.5052,
+            "market_demand": 0.85,
+            "salary_impact": 0.85,
+            "roi_label": "Very High ROI",
+            "start_week": 37,
+            "end_week": 48
+          }
+        ]
+      },
+      "tier_3": {
+        "name": "Low ROI but Necessary",
+        "description": "Specialized and advanced topics. Required for completeness.",
+        "skills": [
+          {
+            "skill_name": "Distributed Systems",
+            "tier": "tier_3",
+            "difficulty": 5,
+            "difficulty_label": "Expert",
+            "learning_hours": 250,
+            "weeks_to_proficiency": 17,
+            "learning_type": "Advanced course + research + open-source contribution",
+            "prerequisites": [],
+            "proficiency_milestone": "Contribute to an open-source project or research using Distributed Systems",
+            "study_schedule": "Structured program: ~15 hrs/week for 17 weeks",
+            "gap_score": 0.8069,
+            "market_demand": 0.82,
+            "salary_impact": 0.82,
+            "roi_label": "High ROI",
+            "start_week": 49,
+            "end_week": 65
+          },
+          {
+            "skill_name": "Deep Learning",
+            "tier": "tier_3",
+            "difficulty": 5,
+            "difficulty_label": "Expert",
+            "learning_hours": 300,
+            "weeks_to_proficiency": 20,
+            "learning_type": "Advanced course + research + open-source contribution",
+            "prerequisites": [],
+            "proficiency_milestone": "Contribute to an open-source project or research using Deep Learning",
+            "study_schedule": "Structured program: ~15 hrs/week for 20 weeks",
+            "gap_score": 0.7744,
+            "market_demand": 0.88,
+            "salary_impact": 0.88,
+            "roi_label": "Medium ROI",
+            "start_week": 66,
+            "end_week": 85
+          }
+        ]
+      }
+    },
+    "milestones": [
+      {
+        "week": 48,
+        "title": "Core Competency Achieved",
+        "description": "Excellent! Core skills acquired. You're now competitive for this role.",
+        "skills_completed": [
+          "CI/CD",
+          "PyTorch",
+          "TensorFlow",
+          "Kubernetes",
+          "Apache Spark",
+          "NLP"
+        ]
+      },
+      {
+        "week": 84,
+        "title": "Full Readiness",
+        "description": "Congratulations! You've completed the learning roadmap. You are now fully equipped for this role.",
+        "skills_completed": "All gap skills"
+      }
+    ],
+    "timeline": {
+      "total_weeks": 84,
+      "total_hours": 1260,
+      "target_completion": "Week 84",
+      "weekly_hours": 15
+    }
+  },
+  "course_recommendations": {
+    "CI/CD": [
+      {
+        "course_name": "AWS Certified Solutions Architect",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 60,
+        "semantic_score": 0.2592,
+        "content_score": 0.2714,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.4487,
+        "rating": 4.7,
+        "enrollments": 900000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/aws-certified-solutions-architect",
+        "skills_covered": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "CI/CD"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); highly popular (900,000 learners); matches your target level (Intermediate)."
+      },
+      {
+        "course_name": "Docker and Kubernetes: The Complete Guide",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.3167,
+        "content_score": 0.2368,
+        "collaborative_score": 0.9463,
+        "hybrid_score": 0.4461,
+        "rating": 4.7,
+        "enrollments": 350000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/docker-and-kubernetes",
+        "skills_covered": [
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); matches your target level (Intermediate); includes verifiable certificate."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.3553,
+        "content_score": 0.1748,
+        "collaborative_score": 0.8916,
+        "hybrid_score": 0.4262,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; includes verifiable certificate."
+      },
+      {
+        "course_name": "Git Complete: The Definitive Guide",
+        "platform": "Udemy",
+        "level": "Beginner",
+        "duration_hours": 12,
+        "semantic_score": 0.3862,
+        "content_score": 0.1748,
+        "collaborative_score": 0.6903,
+        "hybrid_score": 0.3883,
+        "rating": 4.7,
+        "enrollments": 450000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/git-complete",
+        "skills_covered": [
+          "Git",
+          "CI/CD",
+          "Linux"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Data Engineering Zoomcamp",
+        "platform": "DataTalks.Club",
+        "level": "Intermediate",
+        "duration_hours": 80,
+        "semantic_score": 0.3556,
+        "content_score": 0.0,
+        "collaborative_score": 0.4786,
+        "hybrid_score": 0.2619,
+        "rating": 4.8,
+        "enrollments": 50000,
+        "price_usd": 0,
+        "certificate": true,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "skills_covered": [
+          "Data Engineering",
+          "Apache Spark",
+          "Docker",
+          "Kubernetes",
+          "SQL"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); matches your target level (Intermediate); includes verifiable certificate; free course."
+      }
+    ],
+    "PyTorch": [
+      {
+        "course_name": "PyTorch for Deep Learning Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.5735,
+        "content_score": 0.3229,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.5924,
+        "rating": 4.8,
+        "enrollments": 95000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/pytorch-for-deep-learning",
+        "skills_covered": [
+          "PyTorch",
+          "Deep Learning",
+          "Machine Learning",
+          "Computer Vision"
+        ],
+        "rationale": "Recommended because: good semantic match for PyTorch; covers relevant keywords and technology stack; popular among learners with similar profiles; top-rated (4.8/5.0)."
+      },
+      {
+        "course_name": "Computer Vision Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.4013,
+        "content_score": 0.2648,
+        "collaborative_score": 0.9686,
+        "hybrid_score": 0.4954,
+        "rating": 4.6,
+        "enrollments": 65000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/computer-vision-bootcamp",
+        "skills_covered": [
+          "Computer Vision",
+          "Deep Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; matches your target level (Intermediate); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Apache Spark and Delta Lake: Ultimate Reference",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.2863,
+        "content_score": 0.0631,
+        "collaborative_score": 0.5191,
+        "hybrid_score": 0.2664,
+        "rating": 4.7,
+        "enrollments": 85000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/apache-spark",
+        "skills_covered": [
+          "Apache Spark",
+          "Data Engineering",
+          "Python",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); matches your target level (Intermediate); includes verifiable certificate."
+      },
+      {
+        "course_name": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "level": "Beginner",
+        "duration_hours": 40,
+        "semantic_score": 0.3448,
+        "content_score": 0.0619,
+        "collaborative_score": 0.3553,
+        "hybrid_score": 0.2484,
+        "rating": 4.8,
+        "enrollments": 1500000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/python",
+        "skills_covered": [
+          "Python",
+          "Data Science",
+          "REST API"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); highly popular (1,500,000 learners); includes verifiable certificate."
+      },
+      {
+        "course_name": "Statistics and Probability in Data Science using Python",
+        "platform": "edX",
+        "level": "Intermediate",
+        "duration_hours": 60,
+        "semantic_score": 0.2499,
+        "content_score": 0.0,
+        "collaborative_score": 0.443,
+        "hybrid_score": 0.2107,
+        "rating": 4.5,
+        "enrollments": 180000,
+        "price_usd": 0,
+        "certificate": false,
+        "url": "https://edx.org/course/statistics-data-science",
+        "skills_covered": [
+          "Statistics",
+          "Python",
+          "Data Science",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: matches your target level (Intermediate); free course."
+      }
+    ],
+    "TensorFlow": [
+      {
+        "course_name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 150,
+        "semantic_score": 0.3556,
+        "content_score": 0.1568,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.4471,
+        "rating": 4.9,
+        "enrollments": 1200000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/deep-learning",
+        "skills_covered": [
+          "Deep Learning",
+          "NLP",
+          "Computer Vision",
+          "TensorFlow"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.9/5.0); highly popular (1,200,000 learners); includes verifiable certificate."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.3659,
+        "content_score": 0.0,
+        "collaborative_score": 0.4635,
+        "hybrid_score": 0.2622,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: includes verifiable certificate."
+      },
+      {
+        "course_name": "PyTorch for Deep Learning Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.4706,
+        "content_score": 0.0,
+        "collaborative_score": 0.0837,
+        "hybrid_score": 0.2092,
+        "rating": 4.8,
+        "enrollments": 95000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/pytorch-for-deep-learning",
+        "skills_covered": [
+          "PyTorch",
+          "Deep Learning",
+          "Machine Learning",
+          "Computer Vision"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); matches your target level (Intermediate); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Computer Vision Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.3557,
+        "content_score": 0.0,
+        "collaborative_score": 0.1676,
+        "hybrid_score": 0.1842,
+        "rating": 4.6,
+        "enrollments": 65000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/computer-vision-bootcamp",
+        "skills_covered": [
+          "Computer Vision",
+          "Deep Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "rationale": "Recommended because: matches your target level (Intermediate); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Data Engineering Zoomcamp",
+        "platform": "DataTalks.Club",
+        "level": "Intermediate",
+        "duration_hours": 80,
+        "semantic_score": 0.3275,
+        "content_score": 0.0,
+        "collaborative_score": 0.0843,
+        "hybrid_score": 0.1521,
+        "rating": 4.8,
+        "enrollments": 50000,
+        "price_usd": 0,
+        "certificate": true,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "skills_covered": [
+          "Data Engineering",
+          "Apache Spark",
+          "Docker",
+          "Kubernetes",
+          "SQL"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); matches your target level (Intermediate); includes verifiable certificate; free course."
+      }
+    ],
+    "Kubernetes": [
+      {
+        "course_name": "Docker and Kubernetes: The Complete Guide",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.6162,
+        "content_score": 0.2186,
+        "collaborative_score": 0.6723,
+        "hybrid_score": 0.4911,
+        "rating": 4.7,
+        "enrollments": 350000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/docker-and-kubernetes",
+        "skills_covered": [
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: good semantic match for Kubernetes; popular among learners with similar profiles; top-rated (4.7/5.0); includes verifiable certificate."
+      },
+      {
+        "course_name": "AWS Certified Solutions Architect",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 60,
+        "semantic_score": 0.3893,
+        "content_score": 0.1686,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.4647,
+        "rating": 4.7,
+        "enrollments": 900000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/aws-certified-solutions-architect",
+        "skills_covered": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "CI/CD"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); highly popular (900,000 learners); includes verifiable certificate."
+      },
+      {
+        "course_name": "Data Engineering Zoomcamp",
+        "platform": "DataTalks.Club",
+        "level": "Intermediate",
+        "duration_hours": 80,
+        "semantic_score": 0.492,
+        "content_score": 0.0872,
+        "collaborative_score": 0.8535,
+        "hybrid_score": 0.4407,
+        "rating": 4.8,
+        "enrollments": 50000,
+        "price_usd": 0,
+        "certificate": true,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "skills_covered": [
+          "Data Engineering",
+          "Apache Spark",
+          "Docker",
+          "Kubernetes",
+          "SQL"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.8/5.0); includes verifiable certificate; free course."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.5046,
+        "content_score": 0.0,
+        "collaborative_score": 0.2766,
+        "hybrid_score": 0.271,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: good semantic match for Kubernetes; matches your target level (Advanced); includes verifiable certificate."
+      },
+      {
+        "course_name": "Linux Command Line Bootcamp",
+        "platform": "Udemy",
+        "level": "Beginner",
+        "duration_hours": 15,
+        "semantic_score": 0.3523,
+        "content_score": 0.0,
+        "collaborative_score": 0.207,
+        "hybrid_score": 0.1927,
+        "rating": 4.7,
+        "enrollments": 200000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/the-linux-command-line-bootcamp",
+        "skills_covered": [
+          "Linux",
+          "Distributed Systems",
+          "Docker"
+        ],
+        "rationale": "Recommended because: top-rated (4.7/5.0); includes verifiable certificate; affordable pricing."
+      }
+    ],
+    "Apache Spark": [
+      {
+        "course_name": "Apache Spark and Delta Lake: Ultimate Reference",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.7322,
+        "content_score": 0.4791,
+        "collaborative_score": 0.7861,
+        "hybrid_score": 0.6571,
+        "rating": 4.7,
+        "enrollments": 85000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/apache-spark",
+        "skills_covered": [
+          "Apache Spark",
+          "Data Engineering",
+          "Python",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: semantically highly aligned with Apache Spark; covers relevant keywords and technology stack; popular among learners with similar profiles; top-rated (4.7/5.0)."
+      },
+      {
+        "course_name": "Data Engineering Zoomcamp",
+        "platform": "DataTalks.Club",
+        "level": "Intermediate",
+        "duration_hours": 80,
+        "semantic_score": 0.4692,
+        "content_score": 0.2207,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.5149,
+        "rating": 4.8,
+        "enrollments": 50000,
+        "price_usd": 0,
+        "certificate": true,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "skills_covered": [
+          "Data Engineering",
+          "Apache Spark",
+          "Docker",
+          "Kubernetes",
+          "SQL"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.8/5.0); includes verifiable certificate; free course."
+      },
+      {
+        "course_name": "Java Programming Masterclass",
+        "platform": "Udemy",
+        "level": "Beginner",
+        "duration_hours": 80,
+        "semantic_score": 0.4087,
+        "content_score": 0.0671,
+        "collaborative_score": 0.0,
+        "hybrid_score": 0.1869,
+        "rating": 4.6,
+        "enrollments": 750000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/java-the-complete-java-developer-course",
+        "skills_covered": [
+          "Java",
+          "REST API",
+          "Data Structures"
+        ],
+        "rationale": "Recommended because: highly popular (750,000 learners); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Python for Everybody Specialization",
+        "platform": "Coursera",
+        "level": "Beginner",
+        "duration_hours": 40,
+        "semantic_score": 0.2917,
+        "content_score": 0.0326,
+        "collaborative_score": 0.097,
+        "hybrid_score": 0.1524,
+        "rating": 4.8,
+        "enrollments": 1500000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/python",
+        "skills_covered": [
+          "Python",
+          "Data Science",
+          "REST API"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); highly popular (1,500,000 learners); includes verifiable certificate."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.2935,
+        "content_score": 0.0,
+        "collaborative_score": 0.1324,
+        "hybrid_score": 0.1505,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: matches your target level (Advanced); includes verifiable certificate."
+      }
+    ],
+    "NLP": [
+      {
+        "course_name": "Natural Language Processing Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 130,
+        "semantic_score": 0.5084,
+        "content_score": 0.2279,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.5331,
+        "rating": 4.7,
+        "enrollments": 200000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/natural-language-processing",
+        "skills_covered": [
+          "NLP",
+          "Deep Learning",
+          "Machine Learning",
+          "Python"
+        ],
+        "rationale": "Recommended because: good semantic match for NLP; popular among learners with similar profiles; top-rated (4.7/5.0); matches your target level (Advanced)."
+      },
+      {
+        "course_name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 150,
+        "semantic_score": 0.1557,
+        "content_score": 0.1431,
+        "collaborative_score": 0.8784,
+        "hybrid_score": 0.332,
+        "rating": 4.9,
+        "enrollments": 1200000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/deep-learning",
+        "skills_covered": [
+          "Deep Learning",
+          "NLP",
+          "Computer Vision",
+          "TensorFlow"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.9/5.0); highly popular (1,200,000 learners); matches your target level (Advanced)."
+      },
+      {
+        "course_name": "Machine Learning Specialization",
+        "platform": "Coursera",
+        "level": "Intermediate",
+        "duration_hours": 100,
+        "semantic_score": 0.175,
+        "content_score": 0.1128,
+        "collaborative_score": 0.6379,
+        "hybrid_score": 0.269,
+        "rating": 4.9,
+        "enrollments": 2000000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/machine-learning-introduction",
+        "skills_covered": [
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Statistics"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.9/5.0); highly popular (2,000,000 learners); includes verifiable certificate."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.2521,
+        "content_score": 0.0,
+        "collaborative_score": 0.4983,
+        "hybrid_score": 0.2254,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: matches your target level (Advanced); includes verifiable certificate."
+      },
+      {
+        "course_name": "Java Programming Masterclass",
+        "platform": "Udemy",
+        "level": "Beginner",
+        "duration_hours": 80,
+        "semantic_score": 0.3033,
+        "content_score": 0.116,
+        "collaborative_score": 0.2356,
+        "hybrid_score": 0.2208,
+        "rating": 4.6,
+        "enrollments": 750000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/java-the-complete-java-developer-course",
+        "skills_covered": [
+          "Java",
+          "REST API",
+          "Data Structures"
+        ],
+        "rationale": "Recommended because: highly popular (750,000 learners); includes verifiable certificate; affordable pricing."
+      }
+    ],
+    "Distributed Systems": [
+      {
+        "course_name": "Docker and Kubernetes: The Complete Guide",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.2859,
+        "content_score": 0.2356,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.4468,
+        "rating": 4.7,
+        "enrollments": 350000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/docker-and-kubernetes",
+        "skills_covered": [
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Linux Command Line Bootcamp",
+        "platform": "Udemy",
+        "level": "Beginner",
+        "duration_hours": 15,
+        "semantic_score": 0.2833,
+        "content_score": 0.1739,
+        "collaborative_score": 0.8709,
+        "hybrid_score": 0.3919,
+        "rating": 4.7,
+        "enrollments": 200000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/the-linux-command-line-bootcamp",
+        "skills_covered": [
+          "Linux",
+          "Distributed Systems",
+          "Docker"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Apache Spark and Delta Lake: Ultimate Reference",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.2664,
+        "content_score": 0.2176,
+        "collaborative_score": 0.8219,
+        "hybrid_score": 0.3882,
+        "rating": 4.7,
+        "enrollments": 85000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/apache-spark",
+        "skills_covered": [
+          "Apache Spark",
+          "Data Engineering",
+          "Python",
+          "Distributed Systems"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "MLOps Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 80,
+        "semantic_score": 0.3853,
+        "content_score": 0.0,
+        "collaborative_score": 0.3826,
+        "hybrid_score": 0.2498,
+        "rating": 4.6,
+        "enrollments": 120000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/mlops-machine-learning-duke",
+        "skills_covered": [
+          "MLOps",
+          "Docker",
+          "CI/CD",
+          "Machine Learning"
+        ],
+        "rationale": "Recommended because: matches your target level (Advanced); includes verifiable certificate."
+      },
+      {
+        "course_name": "Data Engineering Zoomcamp",
+        "platform": "DataTalks.Club",
+        "level": "Intermediate",
+        "duration_hours": 80,
+        "semantic_score": 0.3261,
+        "content_score": 0.0,
+        "collaborative_score": 0.2563,
+        "hybrid_score": 0.1945,
+        "rating": 4.8,
+        "enrollments": 50000,
+        "price_usd": 0,
+        "certificate": true,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "skills_covered": [
+          "Data Engineering",
+          "Apache Spark",
+          "Docker",
+          "Kubernetes",
+          "SQL"
+        ],
+        "rationale": "Recommended because: top-rated (4.8/5.0); includes verifiable certificate; free course."
+      }
+    ],
+    "Deep Learning": [
+      {
+        "course_name": "PyTorch for Deep Learning Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 30,
+        "semantic_score": 0.5316,
+        "content_score": 0.2666,
+        "collaborative_score": 1.0,
+        "hybrid_score": 0.5559,
+        "rating": 4.8,
+        "enrollments": 95000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/pytorch-for-deep-learning",
+        "skills_covered": [
+          "PyTorch",
+          "Deep Learning",
+          "Machine Learning",
+          "Computer Vision"
+        ],
+        "rationale": "Recommended because: good semantic match for Deep Learning; popular among learners with similar profiles; top-rated (4.8/5.0); includes verifiable certificate."
+      },
+      {
+        "course_name": "Deep Learning Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 150,
+        "semantic_score": 0.5107,
+        "content_score": 0.3985,
+        "collaborative_score": 0.7148,
+        "hybrid_score": 0.5224,
+        "rating": 4.9,
+        "enrollments": 1200000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/deep-learning",
+        "skills_covered": [
+          "Deep Learning",
+          "NLP",
+          "Computer Vision",
+          "TensorFlow"
+        ],
+        "rationale": "Recommended because: good semantic match for Deep Learning; covers relevant keywords and technology stack; popular among learners with similar profiles; top-rated (4.9/5.0)."
+      },
+      {
+        "course_name": "Natural Language Processing Specialization",
+        "platform": "Coursera",
+        "level": "Advanced",
+        "duration_hours": 130,
+        "semantic_score": 0.3924,
+        "content_score": 0.2097,
+        "collaborative_score": 0.9534,
+        "hybrid_score": 0.4687,
+        "rating": 4.7,
+        "enrollments": 200000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/natural-language-processing",
+        "skills_covered": [
+          "NLP",
+          "Deep Learning",
+          "Machine Learning",
+          "Python"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; top-rated (4.7/5.0); matches your target level (Advanced); includes verifiable certificate."
+      },
+      {
+        "course_name": "Computer Vision Bootcamp",
+        "platform": "Udemy",
+        "level": "Intermediate",
+        "duration_hours": 22,
+        "semantic_score": 0.4019,
+        "content_score": 0.1509,
+        "collaborative_score": 0.9671,
+        "hybrid_score": 0.4554,
+        "rating": 4.6,
+        "enrollments": 65000,
+        "price_usd": 15,
+        "certificate": true,
+        "url": "https://udemy.com/course/computer-vision-bootcamp",
+        "skills_covered": [
+          "Computer Vision",
+          "Deep Learning",
+          "Python",
+          "PyTorch"
+        ],
+        "rationale": "Recommended because: popular among learners with similar profiles; includes verifiable certificate; affordable pricing."
+      },
+      {
+        "course_name": "Machine Learning Specialization",
+        "platform": "Coursera",
+        "level": "Intermediate",
+        "duration_hours": 100,
+        "semantic_score": 0.3947,
+        "content_score": 0.2835,
+        "collaborative_score": 0.4835,
+        "hybrid_score": 0.378,
+        "rating": 4.9,
+        "enrollments": 2000000,
+        "price_usd": 49,
+        "certificate": true,
+        "url": "https://coursera.org/specializations/machine-learning-introduction",
+        "skills_covered": [
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Statistics"
+        ],
+        "rationale": "Recommended because: top-rated (4.9/5.0); highly popular (2,000,000 learners); includes verifiable certificate."
+      }
+    ]
+  }
+}

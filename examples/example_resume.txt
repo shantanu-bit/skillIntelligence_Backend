@@ -1,0 +1,62 @@
+John Smith
+john.smith@email.com | +1 (555) 123-4567 | LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/jsmith
+
+PROFESSIONAL SUMMARY
+Data Engineer with 3+ years of experience building scalable data pipelines and analytics infrastructure.
+Proficient in Python, SQL, and cloud technologies. Seeking to transition into a Machine Learning Engineering role.
+
+WORK EXPERIENCE
+---------------------------------------------------------------
+Senior Data Analyst | TechCorp Inc. | San Francisco, CA | 2021 - Present
+
+- Built and maintained ETL pipelines using Python and SQL processing 10M+ daily records
+- Developed automated reporting dashboards using Pandas and data visualization tools (Matplotlib, Seaborn)
+- Collaborated with cross-functional teams to deliver data-driven business insights
+- Optimized distributed data pipelines reducing processing time by 40%
+- Implemented REST APIs for internal data access using Python Flask
+- Managed PostgreSQL database schema design and query optimization
+
+Junior Software Developer | StartupXYZ | Remote | 2020 - 2021
+
+- Developed REST APIs using Python Flask for customer-facing features
+- Used Git version control in a team Agile/Scrum development environment
+- Wrote complex SQL queries for PostgreSQL database management
+- Participated in code reviews and pair programming sessions
+- Built data visualization dashboards for business stakeholders
+
+EDUCATION
+---------------------------------------------------------------
+Bachelor of Science, Computer Science
+State University | 2016 - 2020
+
+Relevant Coursework: Data Structures & Algorithms, Database Systems, Statistics & Probability,
+Operating Systems, Software Engineering, Linear Algebra
+
+SKILLS
+---------------------------------------------------------------
+Programming Languages: Python (Advanced), SQL (Advanced), JavaScript (Basic), Bash (Intermediate)
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
+Databases: PostgreSQL, MySQL, SQLite
+Cloud: AWS (Cloud Practitioner certified), S3, EC2 basics
+DevOps: Docker (Basic), Git/GitHub, Linux
+Frameworks: Flask, FastAPI (Basic)
+Soft Skills: Communication, Problem Solving, Teamwork, Analytical Thinking, Agile/Scrum
+Statistics: Hypothesis Testing, Regression Analysis, A/B Testing
+
+CERTIFICATIONS
+---------------------------------------------------------------
+- AWS Cloud Practitioner (Amazon Web Services, 2022)
+- Google Data Analytics Professional Certificate (Coursera, 2021)
+- Python for Everybody Specialization (Coursera, 2020)
+
+PROJECTS
+---------------------------------------------------------------
+Data Pipeline Automation System (2023)
+- Built an automated ETL pipeline using Python that processes 5M+ records daily
+- Implemented data quality checks and alerting using SQL and custom Python scripts
+- Reduced manual data processing time by 70%
+
+Customer Analytics Dashboard (2022)
+- Developed interactive analytics dashboards using Python and data visualization libraries
+- Integrated with PostgreSQL database for real-time data queries
+- Used REST APIs to fetch external data sources

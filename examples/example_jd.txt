@@ -1,0 +1,53 @@
+Machine Learning Engineer
+DataDriven AI | San Francisco, CA | Full-Time | $160,000 - $200,000
+
+ABOUT THE COMPANY
+DataDriven AI is a fast-growing fintech startup building next-generation credit scoring and
+risk assessment models using machine learning and alternative data sources. We process
+billions of data points daily to power real-time lending decisions across 50+ financial
+institutions.
+
+ABOUT THE ROLE
+We are looking for a skilled Machine Learning Engineer to join our AI/ML team to design,
+build, and deploy production machine learning systems that directly impact lending decisions
+for millions of customers.
+
+REQUIRED SKILLS:
+- Strong proficiency in Python (3+ years) with focus on ML/data applications
+- Experience with Machine Learning frameworks and techniques (2+ years)
+- Deep Learning expertise using PyTorch or TensorFlow
+- MLOps practices: Docker containerization, Kubernetes orchestration, CI/CD pipelines
+- Data processing at scale using Apache Spark or similar distributed frameworks
+- Natural Language Processing (NLP) for text-based feature engineering
+- Strong SQL skills for data extraction and feature engineering
+- AWS cloud services (S3, SageMaker, EC2, Lambda)
+- Git version control and collaborative development workflows
+- Excellent communication and cross-functional team collaboration skills
+
+PREFERRED QUALIFICATIONS:
+- Experience with Kubernetes cluster management and Helm charts
+- Knowledge of distributed systems architecture
+- Data Science background with statistics expertise
+- Experience with React or similar frontend for ML model dashboards
+- Research background in ML/AI (publications a plus)
+- Financial domain knowledge
+
+RESPONSIBILITIES:
+- Design and implement production-grade ML pipelines end-to-end
+- Collaborate with Data Scientists to productionize ML models
+- Build and maintain MLOps infrastructure for model training and deployment
+- Implement real-time feature engineering pipelines using Apache Spark
+- Monitor model performance and implement automated retraining workflows
+- Write technical documentation and present findings to stakeholders
+
+TECH STACK:
+Python, PyTorch, TensorFlow, Apache Spark, Kubernetes, Docker, AWS SageMaker,
+MLflow, Airflow, SQL, Git, React
+
+BENEFITS:
+- Competitive salary + equity
+- Health, dental, vision insurance
+- 401(k) with company matching
+- Remote-friendly (2 days in office)
+- $5,000 annual learning budget
+- 20 days PTO + holidays
